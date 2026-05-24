@@ -57,3 +57,14 @@ h3 {
 .contact h2 {
   margin-bottom: 64px;
 }
+
+@media (max-width: 600px) {
+  .project {
+    display: block;
+    text-align: center;
+    width: 500px;
+  }
+  h3 {
+
+  }
+}
