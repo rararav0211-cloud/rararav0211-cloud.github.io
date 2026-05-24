@@ -43,9 +43,9 @@ h3 {
 
 .project {
   display: flex;
-  width: 900px;
+  width: 950px;
   gap: 64px;
-  margin: 64px auto;
+  margin: 64px auto 0;
   padding-bottom: 64px;
 }
 
@@ -59,18 +59,18 @@ h3 {
 }
 
 @media (max-width: 600px) {
-  .body {
-    width: 600px;
-  }
   .project {
     display: block;
-    width: 500px;
+    width: 400px;
     margin: 0 auto; 
-  }
-  .image {
-    padding: 40px;
   }
   .infomation {
     text-align: center;
+  }
+  .image {
+    padding-top: 64px;
+  }
+  .h3 {
+    padding-top: 64px;
   }
 }
