@@ -59,6 +59,9 @@ h3 {
 }
 
 @media (max-width: 600px) {
+  .body {
+    width: 600px;
+  }
   .project {
     display: block;
     width: 500px;
