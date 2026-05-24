@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.hero {
+  background: lightgray;
+  height: 300px;
+  padding-top: 100px;
+}
+p {
+  padding-top: 64px;
+}
+h1 {
+  font-weight: normal;
+}
+
+h2 {
+  font-weight: normal;
+}
+
+h3 {
+  font-weight: normal;
+}
+
+
+
