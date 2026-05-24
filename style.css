@@ -61,7 +61,13 @@ h3 {
 @media (max-width: 600px) {
   .project {
     display: block;
-    text-align: center;
     width: 500px;
+    margin: 0 auto; 
+  }
+  .image {
+    padding: 40px;
+  }
+  .infomation {
+    text-align: center;
   }
 }
